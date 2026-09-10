@@ -94,4 +94,4 @@ Walking gait simulations are currently designed and operated through Python.
 - Control system implementation
 - Physical testing
 
-###### Simulations are generated with AI assistance based on my proposed morphology and locomotion concept.
+###### GIFs are generated with Claude AI assistance based on my proposed morphology and locomotion concept.
