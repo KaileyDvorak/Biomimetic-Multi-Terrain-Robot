@@ -58,7 +58,7 @@ different configurations.
 <img width="1100" height="550" alt="gait_walk" src="https://github.com/user-attachments/assets/dd0ef1cc-7fb5-438d-82b2-9b563127b8b4" />
 
 #### Appendage Folding Sequence
-<img width="600" height="600" alt="fold_sequence" src="https://github.com/user-attachments/assets/6e439d99-b6bd-4570-87b2-bfa5ea2fa69c" />
+<img width="600" height="600" alt="fold_sequence" src="https://github.com/user-attachments/assets/6a362e20-4087-45ec-9d98-a1d1ed4ab75d" />
 
 ### Aerial
 
