@@ -60,6 +60,12 @@ different configurations.
 #### Appendage Folding Sequence
 <img width="600" height="600" alt="fold_sequence" src="https://github.com/user-attachments/assets/6a362e20-4087-45ec-9d98-a1d1ed4ab75d" />
 
+#### Leg Posture at 4 DOF
+<img width="1500" height="750" alt="leg_4dof_posture_demo" src="https://github.com/user-attachments/assets/09579cd8-5ae0-4846-9445-e3378a9eb4cd" />
+
+#### Feasibility and Size Limitations for Spherical Folding
+<img width="1200" height="750" alt="sphere_fold_feasibility" src="https://github.com/user-attachments/assets/050a008f-9f7f-4116-ba6b-4d2265242da3" />
+
 ### Aerial
 
 *Concept development in progress.*
